@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb/base",
+  "parser": "babel-eslint",
+  "rules": {
+    "no-multi-spaces": [0, { "exceptions": { "VariableDeclarator": true } }],
+
+    "jsx-quotes": [
+      2, "prefer-double"
+    ],
+    "react/jsx-quotes": 0
+  }
+}

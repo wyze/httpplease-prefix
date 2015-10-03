@@ -1,0 +1,12 @@
+# NPM Log
+npm-debug.log
+
+# Unit test code coverage directory
+coverage
+
+# Build/compiled assets folder
+lib
+
+# Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+node_modules
